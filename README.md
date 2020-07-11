@@ -10,11 +10,16 @@ git clone https://github.com/mahmoudgabr93/mahmoud-gabr
 cd Automation task
 npm install
 
-Enable BestBuy APIs on your localhost 
+Enable BestBuy APIs on your localhost:
+
 git clone https://github.com/bestbuy/api-playground/
+
 cd api-playground
+
 npm install
+
 npm start
+
 Best Buy API Playground started at http://localhost:3030
 
 Open The Automation Task folder and from the terminal of your Operating system or your IDE, execute the facebook test cases using the below command:
