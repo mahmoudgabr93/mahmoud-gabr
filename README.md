@@ -15,14 +15,14 @@ git clone https://github.com/bestbuy/api-playground/
 cd api-playground
 npm install
 npm start
-# Best Buy API Playground started at http://localhost:3030
+Best Buy API Playground started at http://localhost:3030
 
-Open The Automation Task folder and from the terminal of your Operating system or your IDE, execute the facebook test cases using the below command
+Open The Automation Task folder and from the terminal of your Operating system or your IDE, execute the facebook test cases using the below command:
 
-# npm run cypress
+npm run cypress
 
-And for executing the APIs test cases run the below command also in the terminal
+And for executing the APIs test cases run the below command also in the terminal:
 
-# npm run api
+npm run api
 
 Mochawesome reports are added for the frontend test cases and in case of failure screenshots from the failed test case will be added to the report
