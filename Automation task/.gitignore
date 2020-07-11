@@ -1,0 +1,5 @@
+# Test Report Directory
+mocha
+
+# Dependency directories
+node_modules/

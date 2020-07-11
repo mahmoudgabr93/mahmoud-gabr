@@ -1,0 +1,8 @@
+module.exports = {
+	name: "New Product",
+	type: "Hard Good",
+	upc: "12345676",
+	price: 99.99,
+	description: "This is a placeholder request for creating a new product.",
+	model: "NP12345"
+}

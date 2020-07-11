@@ -1,0 +1,28 @@
+{
+  "name": "facebook-registration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress run --headed",
+    "api": "./node_modules/.bin/mocha ./test/Routes --exit"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-subset": "^1.6.0",
+    "cypress": "^4.7.0",
+    "eslint": "^7.2.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.19",
+    "mocha": "^7.2.0",
+    "mocha-multi-reporters": "^1.1.7",
+    "mochawesome": "^6.1.1",
+    "mochawesome-merge": "^4.1.0",
+    "mochawesome-report-generator": "^5.1.0",
+    "objectid": "^3.2.1",
+    "supertest": "^4.0.2"
+  },
+  "author": "Mahmoud Gabr",
+  "license": "ISC"
+}

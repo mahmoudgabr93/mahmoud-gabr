@@ -1,0 +1,11 @@
+{
+  "firstname": "Mahmoud",
+  "lastname": "Gabr",
+  "email": "evrxscaohe_1594234932@tfbnw.net",
+  "password": "P@ssw0rd",
+  "DayOfBirth": "31",
+  "MonthOfBirth": "July",
+  "YearOfBirth": "1980",
+  "invalidEmail": "test@dumb.net",
+  "invalidPassword": "123445df&2"
+}
